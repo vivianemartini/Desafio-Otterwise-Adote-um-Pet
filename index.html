@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Viviane Martini" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" href="img/icon/favicon-96x96.png" />
+
+    <!--responsividade -->
+    <link rel="stylesheet" href="responsive.css" />
+
+    <script src="script.js"></script>
+
+    <title>Projeto Otterwise - Adote um Pet</title>
+  </head>
+  <body>
+    <header class="header">
+      <img class="brand-logo" src="img/brand-logo.png" alt="Logo da marca" />
+      <nav id="nav">
+        <button id="btn-mobile"></button>
+        <ul id="menu" class="menuHeader">
+          <li>Galeria</li>
+          <li>Contato</li>
+          <li>Social</li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="hero">
+        <img
+          class="background off-mobile"
+          src="img/background.png"
+          alt="Imagem de três cachorros"
+        />
+        <div class="box">
+          <h1 class="title">Adote um Pet</h1>
+          <h3 class="text">Amigo não se compra!</h3>
+        </div>
+      </section>
+      <section class="gallery">
+        <div class="container1">
+          <img src="img/galeria/dog_1.png" alt="" />
+          <img src="img/galeria/cat_1.png" alt="" />
+          <img src="img/galeria/dog_2.png" alt="" />
+        </div>
+        <div class="container2">
+          <img src="img/galeria/cat_2.png" alt="" />
+          <img src="img/galeria/dog_3.png" alt="" />
+          <img src="img/galeria/cat_3.png" alt="" />
+        </div>
+      </section>
+      <section class="box-form">
+        <form id="create-messsage" class="form">
+          <label class="info" for="name">Nome Completo</label>
+          <input
+            class="formbox textarea"
+            type="text"
+            required
+            id="name"
+            name="nome-usuario"
+          />
+          <label class="info" for="email">E-mail</label>
+          <input
+            class="formbox textarea"
+            type="text"
+            required
+            id="email"
+            name="email"
+          />
+          <label class="info" for="telephone">Telefone</label>
+          <input
+            class="formbox textarea"
+            type="number"
+            required
+            id="phone"
+            name="phone"
+          />
+          <label class="info1" for="message">Mensagem</label>
+          <textarea
+            class="formbox1 textarea"
+            type="text"
+            required
+            id="message"
+            name="message"
+          >
+          </textarea>
+          <button onclick="onSubmit()" class="button" type="button">
+            Enviar
+          </button>
+        </form>
+      </section>
+    </main>
+    <footer class="footer">
+      <p class="textfooter">Direitos Reservados. 2021.</p>
+    </footer>
+  </body>
+</html>

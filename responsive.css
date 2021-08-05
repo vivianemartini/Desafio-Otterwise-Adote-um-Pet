@@ -1,0 +1,76 @@
+@media only screen and (max-width: 360px) {
+  .header {
+    background: #040404;
+  }
+
+  #menu {
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 120px;
+    left: 0px;
+    text-align: center;
+    background: #040404;
+    height: 30%;
+    font-size: 36px;
+    line-height: 70px;
+    color: #ffd18d;
+    z-index: 1000;
+  }
+
+  .burger {
+    display: inline-block;
+    cursor: pointer;
+    color: #ffd18d;
+  }
+
+  #btn-mobile {
+    display: block;
+    background: #000 url(img/Hamburguer.png);
+    cursor: pointer;
+    border: none;
+    width: 39px;
+    height: 29px;
+    left: 281px;
+    top: 30px;
+    background-repeat: no-repeat;
+  }
+
+  /* caixa adote */
+  .hero {
+    text-align: center;
+    justify-content: center;
+  }
+  .off-mobile {
+    display: none;
+  }
+  .title {
+    border: none;
+    font-size: 36px;
+    line-height: 42px;
+  }
+  .text {
+    border: none;
+  }
+
+  #btn-mobile {
+    display: block;
+  }
+
+  /* galeria */
+  .gallery {
+    height: 1726px;
+  }
+  .container1 {
+    height: 50%;
+    justify-content: space-evenly;
+  }
+  .container2 {
+    height: 50%;
+    justify-content: space-evenly;
+  }
+
+  .box-form {
+    width: 360px;
+  }
+}
