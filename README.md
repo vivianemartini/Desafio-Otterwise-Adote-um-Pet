@@ -11,5 +11,4 @@ Skills para o projeto:
 - Responsividade
 - Realização de POST com fake API para formulário
 
-![] (https://github.com/vivianemartini/desafio-otterwise-adote-um-pet/blob/main/img/Desktop.png)
-![] (https://github.com/vivianemartini/desafio-otterwise-adote-um-pet/blob/main/img/Style-guide.png)
+
