@@ -2,6 +2,8 @@
 
 Desafio proposto pela Otterwise no módulo HTML/CSS/JS.
 
+You can take a look here: (https://desafio-otterwise-adote-um-pet.martiniviviane.repl.co/)
+
 Skills para o projeto:
 
 - Figma
