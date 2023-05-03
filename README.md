@@ -1,10 +1,12 @@
-# desafio-otterwise-adote-um-pet :dog:
+## Adote um pet :dog:
 
 Desafio proposto pela Otterwise no módulo HTML/CSS/JS.
 
-You can take a look here: (https://desafio-otterwise-adote-um-pet.martiniviviane.repl.co/)
+You can take a look here: 
 
-Skills para o projeto:
+[Live](https://desafio-otterwise-adote-um-pet.martiniviviane.repl.co/)
+
+## Skills para o projeto:
 
 - Figma
 - HTML
@@ -17,3 +19,7 @@ https://user-images.githubusercontent.com/70038975/128361045-df7098f8-6aec-43f6-
 
 ![Desktop](https://user-images.githubusercontent.com/70038975/128358751-3b9aeef2-fd03-4e05-8f66-f893ef511311.png)
 ![Style-guide](https://user-images.githubusercontent.com/70038975/128358828-883c6844-2786-4414-932c-45cc433cf3eb.png)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
