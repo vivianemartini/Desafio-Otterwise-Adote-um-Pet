@@ -15,6 +15,17 @@ You can take a look here:
 - Responsividade
 - Realização de POST com fake API para formulário
 
+```
+# Clone this repository
+$ git clone https://github.com/vivianemartini/instagram-dio
+
+# Open folder
+$ cd instagram-dio
+
+# Run the app
+$ Open live server
+```
+
 https://user-images.githubusercontent.com/70038975/128361045-df7098f8-6aec-43f6-9d31-55271fefe3ee.mp4
 
 ![Desktop](https://user-images.githubusercontent.com/70038975/128358751-3b9aeef2-fd03-4e05-8f66-f893ef511311.png)
