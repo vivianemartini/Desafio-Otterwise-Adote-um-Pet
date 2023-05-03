@@ -15,6 +15,8 @@ You can take a look here:
 - Responsividade
 - Realização de POST com fake API para formulário
 
+## Run locally
+
 ```
 # Clone this repository
 $ git clone https://github.com/vivianemartini/desafio-otterwise-adote-um-pet
