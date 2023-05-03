@@ -17,10 +17,10 @@ You can take a look here:
 
 ```
 # Clone this repository
-$ git clone https://github.com/vivianemartini/instagram-dio
+$ git clone https://github.com/vivianemartini/desafio-otterwise-adote-um-pet
 
 # Open folder
-$ cd instagram-dio
+$ cd desafio-otterwise-adote-um-pet
 
 # Run the app
 $ Open live server
